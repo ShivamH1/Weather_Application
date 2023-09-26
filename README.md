@@ -1,6 +1,16 @@
 # Weather App
 
-[Live Page](http://ec2-13-235-246-225.ap-south-1.compute.amazonaws.com/)
+Weather App
+
+A simple but powerful weather app that provides real-time weather information and forecasts for any location in the world.
+
+#Features:
+
+#The application allows users to search for the weather conditions in a specific location.
+#The application displays the selected location's current weather conditions, temperature, and humidity.
+#The application has a responsive user interface that works on both desktop and mobile devices.
+#The application uses an API to retrieve weather data.
+#The application is built using a front-end framework such as React and a back-end framework such as Django.
 
 ## How to use
 
@@ -12,7 +22,7 @@ Enter any location in the world and it should display a weather card containing 
 
 ## External APIs Used
 
-- OpenWeather Geocoder API : To retrieve the latitude and longitude of a location
+- OpenWeather Geocoder API: To retrieve the latitude and longitude of a location
 - OpenWeather Current Weather API: To retrieve the weather information for that location
 
 ## Dependancy
