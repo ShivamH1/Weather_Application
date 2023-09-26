@@ -4,13 +4,13 @@ Weather App
 
 A simple but powerful weather app that provides real-time weather information and forecasts for any location in the world.
 
-#Features:
+Features:
 
-#The application allows users to search for the weather conditions in a specific location.
-#The application displays the selected location's current weather conditions, temperature, and humidity.
-#The application has a responsive user interface that works on both desktop and mobile devices.
-#The application uses an API to retrieve weather data.
-#The application is built using a front-end framework such as React and a back-end framework such as Django.
+The application allows users to search for the weather conditions in a specific location.
+The application displays the selected location's current weather conditions, temperature, and humidity.
+The application has a responsive user interface that works on both desktop and mobile devices.
+The application uses an API to retrieve weather data.
+The application is built using a front-end framework such as React and a back-end framework such as Django.
 
 ## How to use
 
