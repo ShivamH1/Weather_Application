@@ -47,7 +47,7 @@ This project consists of a frontend React application and a backend Django serve
 #### 1. Clone the git repository
 
 ```bash
-git clone https://github.com/saurzv/weather-app.git
+git clone https://github.com/ShivamH1/weather-app.git
 ```
 
 #### 2. Install required packages for backend and frontend and run servers
